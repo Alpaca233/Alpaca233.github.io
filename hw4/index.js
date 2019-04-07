@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'At once, as far as Angels ken, he views The dismal situation waste and wild.',
   'example3':
-      'All haile Macbeth, that shalt be King hereafter'  
+      'All haile Macbeth, that shalt be King hereafter',
   'example4':
       'Stranger, if you passing meet me and desire to speak to me, why should you not speak to me?'
 };
