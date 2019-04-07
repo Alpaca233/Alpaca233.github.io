@@ -10,11 +10,11 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'At once, as far as Angels ken, he views The dismal situation waste and wild.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'  
+      'All haile Macbeth, that shalt be King hereafter'  
   'example4':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'
+      'Stranger, if you passing meet me and desire to speak to me, why should you not speak to me?'
 };
 
 function status(statusText) {
